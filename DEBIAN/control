@@ -1,0 +1,10 @@
+Package: porthawk
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libc6 (>= 2.28)
+Maintainer: Krikas <krikas@temphack.org>
+Description: PortHawk - A fast and lightweight port scanner
+ A simple and efficient port scanning tool written in Go. 
+ Scan open ports on IP addresses or DNS names with customizable options.
